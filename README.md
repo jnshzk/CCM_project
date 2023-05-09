@@ -15,4 +15,4 @@ This project aims to develop a Bayesian model for visual perception tasks, speci
 *Convolutional neural netword - Bayesian Model - VIsual Perception - Magnet Effect*
 
 **Licence:** \
-This repo is licenced under the MIT Licence. See "LICENCE" for more details.
+This repo is licenced under the MIT Licence.
